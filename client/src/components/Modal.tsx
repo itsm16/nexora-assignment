@@ -59,7 +59,7 @@ export default function Modal({open, setOpen, isLoading}: ModalProps) {
                     </div>
                     <div className="flex w-full justify-between text-lg font-semibold">
                         <p>Total :</p>
-                        <p>${data?.total}</p>
+                        <p>${Number(data?.total).toFixed(2)}</p>
                     </div>
                 </div>
             </form>
