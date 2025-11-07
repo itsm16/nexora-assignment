@@ -14,6 +14,11 @@ then
 ```
 npm install typescript tsx @types/node --save-dev
 ```
+add `.env` file inside `server` directory which will contain `DATABASE_URL`
+```
+DATABASE_URL="mysql://<user>:<password>@localhost:3306/mydb"
+```
+
 
 ### Frontend:
 - React
