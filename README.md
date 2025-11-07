@@ -12,6 +12,11 @@
 - React / Tanstack Query
      - trigger get requests on mutation success, smooth refetching
 
+![alt text](image.png)
+![alt text](image-2.png)
+
+![alt text](image-1.png)
+
 ### Backend:
 - Express
 - Prisma
