@@ -6,6 +6,15 @@
 - DB persistence
 - Reponsive
 
+`Required: Typescript`
+```
+cd server/
+```
+then
+```
+npm install typescript tsx @types/node --save-dev
+```
+
 ### Frontend:
 - React
 - Tailwind CSS
